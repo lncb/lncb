@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @lncb
+- 👀 I’m interested in Go, JS, Rust and Linux, 
